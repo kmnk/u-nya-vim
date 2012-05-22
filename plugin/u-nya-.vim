@@ -24,4 +24,4 @@ function! g:U_nya_()
   return s:pattern0[idx]
 endfunction
 
-set statusline=%<%f\ %h%m%r%=%{g:U_nya_()}
+"set statusline=%<%f\ %h%m%r%=%{g:U_nya_()}
